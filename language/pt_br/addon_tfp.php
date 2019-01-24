@@ -2,7 +2,7 @@
 /**
 *
 * This file is part of the phpBB Forum Software package.
-* Brazilian Portuguese  translation by eunaumtenhoid (c) 2017 [ver 3.0.4] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese  translation by eunaumtenhoid [2017][ver 3.0.4]  (https://github.com/phpBBTraducoes)
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
 * For full copyright and license information, please see
